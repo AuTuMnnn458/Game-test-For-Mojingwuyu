@@ -91,6 +91,11 @@
 | 45   | 910 | 477 | 7708 | 427 |
 | 50   | 964 | 515 | 8203 | 456 |
 
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/Game-test-For-Mojingwuyu/blob/main/pic/%E7%AD%89%E7%BA%A7-%E5%B1%9E%E6%80%A7.png" >图1 等级-属性 </center></td>
+    </tr>
+</table>
 
 | 等级   | 钱     | 经验    |
 |------|-------|-------|
@@ -104,6 +109,10 @@
 | 35   | 50718 | 22605 |
 | 进阶40 | 69406 | 32281 |
 | 45   | 91736 | 44328 |
-
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/AuTuMnnn458/Game-test-For-Mojingwuyu/blob/main/pic/%E7%AD%89%E7%BA%A7-%E6%89%80%E9%9C%80%E8%B5%84%E6%BA%90%E5%9B%BE.png" >图1 等级-所需资源 </center></td>
+    </tr>
+</table>
 
 ## 总结
